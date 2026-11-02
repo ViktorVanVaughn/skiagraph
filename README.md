@@ -176,7 +176,7 @@ Nothing is rendered to pixels and traced back. Every mark is computed from the 3
 
 The file uses no filters, so it looks the same in browsers, Inkscape and resvg (checked on every release picture).
 
-## Licence
+## License
 
 Skiagraph is released under the MIT licence (`LICENSE`). `src/tachyon.rs` is translated from the Tachyon ray tracer
 by John E. Stone, under its BSD 3-clause licence: see `THIRD-PARTY-NOTICES.md`. Skiagraph contains no VMD code; VMD

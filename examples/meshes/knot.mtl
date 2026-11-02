@@ -1,0 +1,10 @@
+# CC0 1.0, made by scripts/make_meshes.py
+newmtl red
+Kd 0.86 0.16 0.12
+Ks 0.5 0.5 0.5
+Ns 200
+illum 2
+newmtl stone
+Kd 0.72 0.70 0.66
+Ks 0 0 0
+illum 1

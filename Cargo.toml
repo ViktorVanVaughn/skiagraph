@@ -1,0 +1,8 @@
+[package]
+name = "skiagraph"
+version = "1.0.0-rc1"
+edition = "2024"
+
+[dependencies]
+rayon = "1.12.0"
+robust = "1.2.0"
